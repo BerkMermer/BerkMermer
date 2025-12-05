@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Berk Coşkun Mermer</h1>
 <h3 align="center">Computer Engineering Student at Bolu Izzet Baysal University</h3>
 
-- 🔭 I’m currently working on **Building a Multiple Linear Regression model to predict startup profits, focusing on feature engineering with Pandas.**
+- 🔭 I’m currently working on **Startup Profit Prediction: Working on a regression model using Pandas for data.**
 
-- 🌱 I’m currently learning **Deep Learning concepts and practical application of Java Spring Boot for scalable web APIs.**
+- 🌱 I’m currently learning **Backend & AI: Learning Java Spring Boot for APIs and Deep Learning concepts.**
 
 - Contact:
     - Email: **mermerberkx@gmail.com**
