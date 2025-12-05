@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Deep Learning concepts and practical application of Java Spring Boot for scalable web APIs.**
 
-- Contact **mermerberkx@gmail.com**
+- Contact: **mermerberkx@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
