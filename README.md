@@ -1,13 +1,19 @@
-<h1 align="center">Hi 👋, I'm Berk Coşkun Mermer</h1>
-<h3 align="center">Computer Engineering Student at Bolu Izzet Baysal University</h3>
+# Hi there, I'm Berk Coşkun Mermer 👋
 
-- 🔭 I’m currently working on **Startup Profit Prediction: Working on a regression model using Pandas for data.**
+Computer Engineering Student passionate about building scalable backend architectures, distributed systems, and modern web applications.
 
-- 🌱 I’m currently learning **Backend & AI: Learning Java Spring Boot for APIs and Deep Learning concepts.**
+### 🛠️ Tech Stack & Tools
+- **Languages:** Java, Python, C, SQL
+- **Frameworks & Libraries:** Spring Boot, Django, RESTful APIs, WebSocket, JPA / Hibernate
+- **Databases & Caching:** PostgreSQL, Redis, SQLite
+- **DevOps & Tools:** Docker, Git, GitHub, Linux
 
-- Contact:
-    - Email: **mermerberkx@gmail.com**
-    - LinkedIn: **https://www.linkedin.com/in/berkcoskunmermer/**
+### 📌 Featured Projects
+- 🚀 **[Live Courier Tracking Service](https://github.com/berkcoskunmermer):** Real-time location streaming and notification pipeline built with Spring Boot, WebSocket, Redis, PostgreSQL, and Docker.
+- 🎓 **[Student Registration System](https://github.com/berkcoskunmermer):** Multi-tier Layered RESTful API built using Spring Boot and JPA/Hibernate.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+### ✍️ Community & Writing
+- Technical Team Member at **Huawei Student Developers (HSD) Bolu**
+- Writing articles on **Medium** about backend architecture, software engineering practices, and AI tools.
+
+📫 **How to reach me:** [LinkedIn](https://linkedin.com/in/berkcoskunmermer) | mermerberkx@gmail.com
