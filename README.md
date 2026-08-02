@@ -9,8 +9,8 @@ Computer Engineering Student passionate about building scalable backend architec
 - **DevOps & Tools:** Docker, Git, GitHub, Linux
 
 ### 📌 Featured Projects
-- 🚀 **[Live Courier Tracking Service](https://github.com/berkcoskunmermer):** Real-time location streaming and notification pipeline built with Spring Boot, WebSocket, Redis, PostgreSQL, and Docker.
-- 🎓 **[Student Registration System](https://github.com/berkcoskunmermer):** Multi-tier Layered RESTful API built using Spring Boot and JPA/Hibernate.
+- 🚀 **[Live Courier Tracking Service](https://github.com/BerkMermer/Live-Courier-Tracking):** Real-time location streaming and notification pipeline built with Spring Boot, WebSocket, Redis, PostgreSQL, and Docker.
+- 🎓 **[Student Registration System](https://github.com/BerkMermer/ogrencikayit-sistem):** Multi-tier Layered RESTful API built using Spring Boot and JPA/Hibernate.
 
 ### ✍️ Community & Writing
 - Technical Team Member at **Huawei Student Developers (HSD) Bolu**
