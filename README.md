@@ -6,7 +6,7 @@ Computer Engineering Student passionate about building scalable backend architec
 - **Languages:** Java, Python, C, SQL
 - **Frameworks & Libraries:** Spring Boot, Django, RESTful APIs, JPA / Hibernate
 - **Databases & Caching:** PostgreSQL,  SQLite
-- **DevOps & Tools:** Docker, Git, GitHub, 
+- **DevOps & Tools:** Docker, Git, GitHub
 
 ### 📌 Featured Projects
 - 🚀 **[Live Courier Tracking Service](https://github.com/BerkMermer/Live-Courier-Tracking):** Real-time location streaming and notification pipeline built with Spring Boot, WebSocket, Redis, PostgreSQL, and Docker.
