@@ -1,19 +1,21 @@
-# Hi there, I'm Berk Coşkun Mermer 👋
+# Hi there, I'm Berk Coşkun Mermer
 
-Computer Engineering Student passionate about building scalable backend architectures, distributed systems, and modern web applications.
+Computer engineering student at BAİBÜ. Backend-focused: Java/Spring and Python.
 
-### 🛠️ Tech Stack & Tools
-- **Languages:** Java, Python, C, SQL
-- **Frameworks & Libraries:** Spring Boot, Django, RESTful APIs, JPA / Hibernate
-- **Databases & Caching:** PostgreSQL,  SQLite
-- **DevOps & Tools:** Docker, Git, GitHub
+**Portfolio:** [berkmermer.onrender.com](https://berkmermer.onrender.com)
 
-### 📌 Featured Projects
-- 🚀 **[Live Courier Tracking Service](https://github.com/BerkMermer/Live-Courier-Tracking):** Real-time location streaming and notification pipeline built with Spring Boot, WebSocket, Redis, PostgreSQL, and Docker.
-- 🎓 **[Student Registration System](https://github.com/BerkMermer/ogrencikayit-sistem):** Multi-tier Layered RESTful API built using Spring Boot and JPA/Hibernate.
+### Stack
+- **Languages:** Java, Python, SQL
+- **Backend:** Spring Boot, Spring Security, JPA/Hibernate, Django, REST
+- **Data:** PostgreSQL, Redis, RabbitMQ, SQLite
+- **Tools:** Docker, Git, GitHub
 
-### ✍️ Community & Writing
-- Technical Team Member at **Huawei Student Developers (HSD) Bolu**
-- Writing articles on **Medium** about backend architecture, software engineering practices, and AI tools.
+### Featured
+- **[Live Courier Tracking](https://github.com/BerkMermer/Live-Courier-Tracking)** — Real-time courier assignment and tracking. Spring Boot, Redis GEO, RabbitMQ/STOMP, PostgreSQL, Docker.
+- **[Personal Portfolio](https://berkmermer.onrender.com)** — Django site. [Source](https://github.com/BerkMermer/personal-portfolio).
+- **[Student Registration API](https://github.com/BerkMermer/ogrencikayit-sistem)** — Layered REST API with Spring Boot and JPA.
 
-📫 **How to reach me:** [LinkedIn](https://linkedin.com/in/berkcoskunmermer) | mermerberkx@gmail.com
+### Community
+Technical team member at **Huawei Student Developers (HSD) Bolu**.
+
+📫 [LinkedIn](https://linkedin.com/in/berkcoskunmermer) · mermerberkx@gmail.com
